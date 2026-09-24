@@ -2,13 +2,21 @@
 #tap{
 text-align: center;
 
+
+}
+#tap img{
+width:95vw;
+height:auto;
+
 }
 .aksam{
+
+
 display: flex;
-
+border:solid 0.1vh rgb(8, 8, 8);
 width:100%;
-height:35vh;
-
+height:36vh;
+align-items: center;
 text-align: center;
 overflow-y: hidden;
 overflow-x: scroll;
@@ -18,13 +26,13 @@ border:none;
 
 flex:0 0 auto;    
 width:20vh;
-height:99%;
+height:96%;
 margin:0 0.7vh 0 0.7vh;
 }
 
 .img{
     
-    border:solid 0.1vh black;
+    border:solid 0.1vh rgb(79, 78, 78);
     border-radius:5%;
     
     
@@ -37,14 +45,15 @@ margin:0 0.7vh 0 0.7vh;
 
 
 h5{
-    font-size:3vw;
+    font-size:0.6cm;
 text-align:center;
 
 
 
 }
 h1{
-    font-size:4vw ;
+    font-size:25px ;
+    
 text-align: center;
 
 }
@@ -60,9 +69,9 @@ overflow-x:auto ;
 
 }
 .show img{
-     margin:0.2vh;
-width:20vh;
-height:30vh;
+margin:0.2vh;
+width:25vh;
+height:35vh;
 }
 
 p{
