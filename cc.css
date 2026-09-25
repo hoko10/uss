@@ -55,8 +55,7 @@ margin:0 0.7vh 0 0.7vh;
 
 .img{
     
-    border:solid 0.1vh black;
-    border-radius:5%;
+    
     width:4cm;
     height:95%;
     
@@ -92,7 +91,7 @@ overflow-x:auto ;
 
 }
 .show img{
-    border:solid 0.02cm black;
+    border:none;
 margin:0.2vh;
 width:25vh;
 height:35vh;
