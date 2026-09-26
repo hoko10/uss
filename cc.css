@@ -38,20 +38,21 @@ align-items: center;
 overflow: hidden;
 }
 #q{
+   
     border:none;
    width:100%;
    height: 80%; 
     overflow-x:auto;
     overflow-y:hidden;
-   white-space:nowrap;
+    white-space:nowrap ;
 }
 .mada{
 border:none;
-flex:0 0 auto;    
-width:5cm;
-height:90%;
-margin:0 0.7vh 0 0.7vh;
+margin:0 0 0 0.3cm;
+
 }
+.mada img:hover{transform: scale(0.97);}
+.mada img:active{transform: scale(0.95);}
 
 .img{
     
@@ -86,8 +87,11 @@ text-align:center;
 .show{
 background-color: rgb(17, 36, 53);
 display:flex;
+align-items: center;
 overflow-x:auto ;
-
+overflow-y: hidden;
+width:100%;
+height:8cm;
 
 }
 .show img{
@@ -95,7 +99,11 @@ overflow-x:auto ;
 margin:0.2vh;
 width:25vh;
 height:35vh;
+transition: 0.4s;
+
 }
+
+
 
 p{
     color: rgb(254, 254, 254);
