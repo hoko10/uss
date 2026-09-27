@@ -2,7 +2,7 @@ body{
     background-color: rgb(15, 23, 47);
     margin:0;
     padding:0;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 
 #tit{
@@ -47,7 +47,9 @@ overflow: hidden;
     white-space:nowrap ;
 }
 .mada{
+  
 border:none;
+  
 margin:0 0 0 0.3cm;
 
 }
