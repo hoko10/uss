@@ -98,9 +98,9 @@ height:8cm;
 }
 .show img{
     border:none;
-margin:0.2vh;
-width:25vh;
-height:35vh;
+margin:0;
+width:5cm;
+height:7cm;
 transition: 0.4s;
 
 }
@@ -112,4 +112,10 @@ p{
     font-size:0.4cm;
     text-align:right;
     margin:2%;
+}
+
+.classrom{
+width: 4cm;
+width: 4cm;
+
 }
