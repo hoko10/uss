@@ -49,12 +49,12 @@ overflow: hidden;
 .mada{
   
 border:none;
-  
+ 
 margin:0 0 0 0.3cm;
 
 }
-.mada img:hover{transform: scale(0.97);}
-.mada img:active{transform: scale(0.95);}
+.mosh:hover{transform: scale(0.97);border-bottom: 2px solid rgb(251, 105, 0);}
+.mosh:active{transform: scale(0.95);border-bottom: 2px solid rgb(251, 105, 0);}
 
 .img{
     
@@ -81,10 +81,7 @@ h1{
 text-align: center;
 
 }
-#tt{
-text-align:center;
 
-}
 
 .show{
 background-color: rgb(17, 36, 53);
@@ -109,9 +106,11 @@ transition: 0.4s;
 
 p{
     color: rgb(254, 254, 254);
+     border-right:solid 2px rgb(251, 105, 0) ;
+     padding:4px;
     font-size:0.4cm;
     text-align:right;
-    margin:2%;
+    margin:2px 9px 20px 2px;
 }
 
 .classrom{
