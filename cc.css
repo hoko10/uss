@@ -61,7 +61,7 @@ overflow: hidden;
   
 border:none;
  
-margin:0 0 0 0.3cm;
+margin:0 0.3cm 0 0.3cm;
 
 }
 .mosh:hover{transform: scale(0.97);border-bottom: 2px solid rgb(251, 105, 0);}
