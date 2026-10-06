@@ -130,3 +130,21 @@ width: 4cm;
 width: 4cm;
 
 }
+.tol
+{display: flex;
+
+}
+
+
+#h4{
+    
+    color: rgb(234, 234, 234);
+    background-color: dimgrey;
+    border:solid green 2px;
+    border-radius: 0.2cm;
+    width: 3.5cm;
+    height: 0.7cm;
+    font-family:b;
+    font-size:0.5cm;
+    text-align: center;
+}
