@@ -115,7 +115,7 @@ transition: 0.4s;
 
 
 
-p{
+p,pre{
     font-family:b;
     color: rgb(254, 254, 254);
      border-right:solid 2px rgb(251, 105, 0) ;
