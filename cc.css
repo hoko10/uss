@@ -77,6 +77,10 @@ margin:0 0.3cm 0 0;
   
 }
 
+img{
+    transition:0.6s;
+}
+
 
 h5{font-family:a;
     font-size:0.6cm;
